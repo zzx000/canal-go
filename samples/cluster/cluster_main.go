@@ -2,8 +2,8 @@ package main
 
 import (
 	"fmt"
-	"github.com/withlin/canal-go/client"
-	pbe "github.com/withlin/canal-go/protocol/entry"
+	"github.com/zzx000/canal-go/client"
+	pbe "github.com/zzx000/canal-go/protocol/entry"
 	proto "google.golang.org/protobuf/proto"
 	"log"
 	"os"

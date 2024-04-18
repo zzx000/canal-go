@@ -22,8 +22,8 @@ import (
 	"os"
 	"time"
 
-	"github.com/withlin/canal-go/client"
-	pbe "github.com/withlin/canal-go/protocol/entry"
+	"github.com/zzx000/canal-go/client"
+	pbe "github.com/zzx000/canal-go/protocol/entry"
 	"google.golang.org/protobuf/proto"
 )
 

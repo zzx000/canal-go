@@ -19,8 +19,8 @@ package protocol
 import (
 	"errors"
 	"fmt"
-	pbe "github.com/withlin/canal-go/protocol/entry"
-	pbp "github.com/withlin/canal-go/protocol/packet"
+	pbe "github.com/zzx000/canal-go/protocol/entry"
+	pbp "github.com/zzx000/canal-go/protocol/packet"
 	proto "google.golang.org/protobuf/proto"
 )
 
