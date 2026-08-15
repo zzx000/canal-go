@@ -2,9 +2,9 @@ module github.com/zzx000/canal-go
 
 require (
 	github.com/go-zookeeper/zk v1.0.3
-	google.golang.org/protobuf v1.33.0
+	google.golang.org/protobuf v1.36.12
 )
 
-require github.com/google/go-cmp v0.6.0 // indirect
+require github.com/google/go-cmp v0.7.0 // indirect
 
-go 1.21
+go 1.23
